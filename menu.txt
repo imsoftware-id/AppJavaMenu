@@ -1,0 +1,2 @@
+Mie,10000.0,Makanan
+Es Teh,5000.0,Minuman

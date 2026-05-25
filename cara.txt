@@ -1,0 +1,2 @@
+javac --release 17 *.java
+java Main
